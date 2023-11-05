@@ -3,7 +3,7 @@ import { FaSmokingBan } from "react-icons/fa";
 import { LiaSmokingBanSolid } from "react-icons/lia";
 import { TbSmokingNo } from "react-icons/tb";
 import "./information.css";
-import ScrollVisibility from "../../ScrollVisibility/ScrollVisibility";
+import ScrollVisibility from "../../../components/ScrollVisibility/ScrollVisibility";
 
 export const info_data = [
   {

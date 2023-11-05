@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./slider.css";
-import ScrollVisibility from "../../ScrollVisibility/ScrollVisibility";
+import ScrollVisibility from "../../../components/ScrollVisibility/ScrollVisibility";
+
 
 export const slider_data = [
   { image: "../../../../src/assets/img_slider/slider_1.webp" },

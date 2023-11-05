@@ -6,11 +6,11 @@
   margin-bottom: 5rem;
 }
 .information h2 {
-  color: #fff;
+  color: #111;
   font-weight: bold;
 }
 .information p {
-  color: #f2f2f2;
+  color: #111;
   line-height: 36px;
   font-weight: 300;
 }
@@ -34,9 +34,9 @@
   width: 3rem;
   height: 3rem;
   margin: 1rem;
-  color: #fff;
+  color: #e91e63;
   border-radius: 50%;
-  box-shadow: 0 0 5px #fff;
+  box-shadow: 0 0 5px #e91e63;
   padding: 5px;
 }
 

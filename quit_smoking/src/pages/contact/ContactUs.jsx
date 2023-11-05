@@ -1,12 +1,13 @@
 import React, { useState } from "react";
 import "./contact.css";
-import ScrollVisibility from "./../ScrollVisibility/ScrollVisibility";
 import {
   FaFacebookF,
   FaTwitter,
   FaInstagram,
   FaLinkedinIn,
 } from "react-icons/fa";
+import ScrollVisibility from "../../components/ScrollVisibility/ScrollVisibility";
+
 
 const ContactUs = () => {
   const [formData, setFormData] = useState({

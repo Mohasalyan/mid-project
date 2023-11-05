@@ -15,21 +15,21 @@
 }
 .blogInfo_date_title .date_p {
   margin-bottom: 10px;
-  color: #fff;
+  color: #111;
   font-size: 16px;
   font-weight: 600;
 }
 .blogInfo_date_title .title_h1 {
-  color: #fff;
+  color: #111;
   text-align: center;
-  border-bottom: 5px solid #fff;
+  border-bottom: 5px solid #111;
   width: fit-content;
   margin: 1rem auto 5rem auto;
 }
 .blogInfo_date_title .blogInfo_description {
   margin-top: 25px;
   margin-bottom: 25px;
-  color: #fff;
+  color: #111;
   font-size: 14px;
   font-family: "IBM Plex Mono", sans-serif;
   line-height: 20px;

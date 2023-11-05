@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { NavLink, Navigate, useParams } from "react-router-dom";
 import { info_blog } from "./../info_blog";
 import "./infoBlog.css";
-import ScrollVisibility from "../../ScrollVisibility/ScrollVisibility";
+import ScrollVisibility from './../../../components/ScrollVisibility/ScrollVisibility';
 
 const Info_blog = () => {
   const { blogId } = useParams();

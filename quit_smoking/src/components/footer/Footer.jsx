@@ -7,7 +7,7 @@ import {
   FaInstagram,
   FaLinkedinIn,
 } from "react-icons/fa";
-import { useAuth } from "../Auth/ConditionAuth";
+import { useAuth } from "../../Auth/ConditionAuth";
 
 const Footer = () => {
   const Auth = useAuth();

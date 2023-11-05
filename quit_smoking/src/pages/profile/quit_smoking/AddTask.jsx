@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { AiOutlineCloseCircle } from "react-icons/ai";
-import ScrollVisibility from "./../../ScrollVisibility/ScrollVisibility";
 import { toast } from "react-toastify";
 import "../profile.css";
+import ScrollVisibility from "../../../components/ScrollVisibility/ScrollVisibility";
 
 const AddTask = ({
   index,
